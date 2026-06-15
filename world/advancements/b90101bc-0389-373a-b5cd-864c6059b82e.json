@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/blast_cloggrum_item": {
+    "criteria": {
+      "has_OptionalNamedTag[undergarden:cloggrum_items]": "2026-06-15 16:13:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2026-06-13 05:41:16 +0000"
@@ -68,6 +74,12 @@
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2026-06-13 07:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2026-06-15 15:56:41 +0000"
     },
     "done": true
   },
@@ -671,6 +683,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2026-06-15 15:04:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2026-06-13 07:18:56 +0000"
@@ -731,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2026-06-15 15:43:27 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cypress_galley": {
     "criteria": {
       "in_water": "2026-06-13 06:19:43 +0000"
@@ -746,6 +770,12 @@
   "smallships:recipes/lotr_charred_galley": {
     "criteria": {
       "in_water": "2026-06-13 06:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2026-06-15 16:03:26 +0000"
     },
     "done": true
   },
@@ -1667,6 +1697,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/spiked_turtle_shell": {
+    "criteria": {
+      "rat_upgrade_basic": "2026-06-15 16:11:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pike_diamond": {
     "criteria": {
       "has_diamond": "2026-06-13 05:48:23 +0000"
@@ -2298,6 +2334,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2026-06-15 15:48:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2026-06-13 05:36:16 +0000"
@@ -2439,6 +2481,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2026-06-13 06:28:27 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/leather_belt": {
+    "criteria": {
+      "obtain_relic": "2026-06-15 16:05:32 +0000"
     },
     "done": true
   },
@@ -3506,6 +3554,7 @@
   },
   "mutantmore:mutantmore/kill_all_mutants": {
     "criteria": {
+      "mutantmore:mutant_wither_skeleton": "2026-06-15 15:22:31 +0000",
       "mutantmore:mutant_blaze": "2026-06-14 04:22:07 +0000"
     },
     "done": false
@@ -3834,6 +3883,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2026-06-13 09:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2026-06-15 15:34:11 +0000"
     },
     "done": true
   },
@@ -4329,6 +4384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2026-06-15 16:38:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/halberd_gold": {
     "criteria": {
       "has_gold_ingot": "2026-06-13 08:59:44 +0000"
@@ -4724,12 +4785,16 @@
     "criteria": {
       "minecraft:forest": "2026-06-13 08:31:40 +0000",
       "minecraft:mountains": "2026-06-13 07:59:37 +0000",
+      "minecraft:giant_tree_taiga": "2026-06-15 15:04:39 +0000",
+      "minecraft:snowy_tundra": "2026-06-15 16:11:10 +0000",
       "minecraft:frozen_river": "2026-06-13 08:50:24 +0000",
       "minecraft:beach": "2026-06-13 16:02:55 +0000",
       "minecraft:dark_forest": "2026-06-13 16:02:15 +0000",
       "minecraft:river": "2026-06-13 05:37:45 +0000",
+      "minecraft:snowy_taiga": "2026-06-15 16:10:32 +0000",
       "minecraft:wooded_mountains": "2026-06-14 03:35:04 +0000",
       "minecraft:wooded_hills": "2026-06-13 16:39:25 +0000",
+      "minecraft:giant_tree_taiga_hills": "2026-06-15 15:46:53 +0000",
       "minecraft:swamp": "2026-06-13 09:09:44 +0000",
       "minecraft:plains": "2026-06-13 05:28:21 +0000"
     },
@@ -5119,15 +5184,15 @@
     },
     "done": false
   },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2026-06-14 05:34:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2026-06-14 04:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-06-14 05:34:50 +0000"
     },
     "done": true
   },
@@ -5320,6 +5385,12 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2026-06-15 16:10:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2026-06-13 05:41:16 +0000"
@@ -5377,6 +5448,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-06-13 10:01:52 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/smelt_cloggrum_item": {
+    "criteria": {
+      "has_OptionalNamedTag[undergarden:cloggrum_items]": "2026-06-15 16:13:04 +0000"
     },
     "done": true
   },
@@ -6281,6 +6358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2026-06-15 16:24:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2026-06-13 05:35:27 +0000"
@@ -6434,6 +6517,12 @@
   "smallships:recipes/jungle_brigg": {
     "criteria": {
       "in_water": "2026-06-13 06:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2026-06-15 15:33:44 +0000"
     },
     "done": true
   },

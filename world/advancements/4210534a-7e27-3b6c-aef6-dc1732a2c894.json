@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2026-06-15 14:47:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_gold": {
     "criteria": {
       "has_gold_ingot": "2026-06-13 08:15:49 +0000"
@@ -719,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2026-06-15 14:47:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_leather": {
     "criteria": {
       "has_stick": "2026-06-13 07:39:27 +0000"
@@ -827,9 +839,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2026-06-15 15:49:04 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_galley": {
     "criteria": {
       "in_water": "2026-06-13 07:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2026-06-15 16:04:13 +0000"
     },
     "done": true
   },
@@ -1817,6 +1841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2026-06-15 15:49:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2026-06-13 08:30:22 +0000"
@@ -2123,6 +2153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2026-06-15 15:18:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/cestus": {
     "criteria": {
       "has_leather": "2026-06-13 07:45:44 +0000"
@@ -2295,6 +2331,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2026-06-14 02:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2026-06-15 15:49:04 +0000"
     },
     "done": true
   },
@@ -2541,6 +2583,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2026-06-13 08:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2026-06-15 15:18:49 +0000"
     },
     "done": true
   },
@@ -2793,6 +2841,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2026-06-13 08:42:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/spruce_pantry": {
+    "criteria": {
+      "has_spruce_trapdoor": "2026-06-15 14:47:15 +0000"
     },
     "done": true
   },
@@ -3546,6 +3600,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/farmersrespite/black_cod": {
+    "criteria": {
+      "has_cod": "2026-06-15 16:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2026-06-13 07:39:27 +0000"
@@ -3828,6 +3888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2026-06-15 15:28:20 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/smelt_froststeel_item": {
     "criteria": {
       "has_OptionalNamedTag[undergarden:froststeel_items]": "2026-06-13 09:15:22 +0000"
@@ -3953,6 +4019,12 @@
       "has_log": "2026-06-14 14:06:34 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_large_dungeon": "2026-06-15 16:09:09 +0000"
+    },
+    "done": false
   },
   "smallships:recipes/lotr_apple_dhow": {
     "criteria": {
@@ -4119,6 +4191,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2026-06-13 07:41:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2026-06-15 16:09:09 +0000"
     },
     "done": true
   },
@@ -4442,6 +4520,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_large_dungeon": "2026-06-15 16:09:09 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/oak_brigg": {
     "criteria": {
       "in_water": "2026-06-13 07:41:27 +0000"
@@ -4538,6 +4622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2026-06-15 16:35:40 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lairelosse_cog": {
     "criteria": {
       "in_water": "2026-06-13 07:41:27 +0000"
@@ -4596,6 +4686,12 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_wood": {
     "criteria": {
       "has_feather": "2026-06-13 09:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2026-06-15 15:57:41 +0000"
     },
     "done": true
   },
@@ -4875,6 +4971,7 @@
       "minecraft:mountains": "2026-06-13 07:45:13 +0000",
       "minecraft:desert_hills": "2026-06-13 11:10:30 +0000",
       "minecraft:giant_tree_taiga": "2026-06-13 11:11:57 +0000",
+      "minecraft:snowy_tundra": "2026-06-15 16:13:41 +0000",
       "minecraft:desert": "2026-06-13 11:10:21 +0000",
       "minecraft:frozen_river": "2026-06-13 11:09:38 +0000",
       "minecraft:deep_lukewarm_ocean": "2026-06-13 11:01:47 +0000",
@@ -4882,6 +4979,7 @@
       "minecraft:dark_forest": "2026-06-13 15:57:45 +0000",
       "minecraft:river": "2026-06-13 07:42:28 +0000",
       "minecraft:lukewarm_ocean": "2026-06-13 10:57:29 +0000",
+      "minecraft:snowy_taiga": "2026-06-15 16:10:00 +0000",
       "minecraft:wooded_mountains": "2026-06-13 07:50:56 +0000",
       "minecraft:wooded_hills": "2026-06-13 10:13:39 +0000",
       "minecraft:giant_tree_taiga_hills": "2026-06-14 02:45:47 +0000",
@@ -5214,6 +5312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2026-06-15 15:22:18 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cedar_cog": {
     "criteria": {
       "in_water": "2026-06-13 07:41:27 +0000"
@@ -5361,6 +5465,12 @@
   "smallships:recipes/bop_umbran_brigg": {
     "criteria": {
       "in_water": "2026-06-13 07:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2026-06-15 15:18:49 +0000"
     },
     "done": true
   },
@@ -6056,6 +6166,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2026-06-15 16:32:18 +0000",
       "wheat": "2026-06-13 08:39:18 +0000"
     },
     "done": false
@@ -6069,6 +6180,12 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_iron": {
     "criteria": {
       "has_feather": "2026-06-13 09:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2026-06-15 15:18:49 +0000"
     },
     "done": true
   },
@@ -6396,6 +6513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2026-06-15 14:47:14 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_cherry_war_galley": {
     "criteria": {
       "in_water": "2026-06-13 07:41:27 +0000"
@@ -6531,6 +6654,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2026-06-13 07:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2026-06-15 14:47:14 +0000"
     },
     "done": true
   },
